@@ -1,0 +1,1 @@
+class Employee(firstName: String, lastName: String)
